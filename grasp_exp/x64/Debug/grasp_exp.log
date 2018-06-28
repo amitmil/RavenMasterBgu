@@ -1,0 +1,50 @@
+﻿Build started 6/3/2018 5:44:49 PM.
+     1>Project "C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\grasp_exp\grasp_exp.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\sigma_master_code.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Point Grey Research\FlyCapture2\include" /IC:\opencv\build\include /I"C:\Program Files\Force Dimension\sdk-3.6.0\include" /I"C:\Program Files\Force Dimension\sdk-3.6.0\external\Eigen" /IC:\freeglut\include /IC:\opencv\include /I"C:\Numerical Recipes\Cpp211\cpp\otherm" /IC:\OpenHaptics\Developer\3.4.0\utilities\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt Haptic.cpp autoControl.cpp kbControl.cpp main.cpp
+         Haptic.cpp
+     1>c:\users\master\dropbox (bio medical robotics)\amit_games\raven - new dev\grasp_exp\Haptic.h(16): warning C4305: '=' : truncation from 'double' to 'float'
+     1>Haptic.cpp(331): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>c:\users\master\dropbox (bio medical robotics)\amit_games\raven - new dev\grasp_exp\Haptic.h(16): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(81): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(83): warning C4305: 'initializing' : truncation from 'double' to 'float'
+         kbControl.cpp
+     1>kbControl.cpp(214): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         autoControl.cpp
+     1>autoControl.cpp(188): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>autoControl.cpp(92): warning C4101: 'a' : unreferenced local variable
+     1>autoControl.cpp(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>autoControl.cpp(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>autoControl.cpp(257): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\x64\Debug\sigma_master_code.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\OpenHaptics\Developer\3.4.0\utilities\lib\x64\Debug /LIBPATH:C:\OpenHaptics\Developer\3.4.0\lib\x64\Debug /LIBPATH:"C:\Program Files\Point Grey Research\FlyCapture2\lib64" /LIBPATH:C:\opencv\build\x64\vc10\lib /LIBPATH:"C:\Program Files\Force Dimension\sdk-3.6.0\lib" /LIBPATH:C:\Users\Master\Desktop\raven_demo\grasp_exp\freeglut\lib\x64 FlyCapture2d_v100.lib drdms64.lib glut32.lib dhdms64.lib WS2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\sigma_master_code.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\x64\Debug\sigma_master_code.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\x64\Debug\sigma_master_code.lib" /MACHINE:X64 x64\Debug\CommonDS.obj
+         x64\Debug\autoControl.obj
+         x64\Debug\fdControl.obj
+         x64\Debug\FrameRateCounter.obj
+         x64\Debug\Haptic.obj
+         x64\Debug\kbControl.obj
+         x64\Debug\main.obj
+         x64\Debug\PracticalSocket.obj
+         x64\Debug\sigma_comm.obj
+         x64\Debug\Timer.obj
+         x64\Debug\VisionThread2.obj
+         grasp_exp.vcxproj -> C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\x64\Debug\sigma_master_code.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\x64\Debug\sigma_master_code.exe;#1" /manifest x64\Debug\sigma_master_code.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\sigma_master_code.unsuccessfulbuild".
+         Touching "x64\Debug\sigma_master_code.lastbuildstate".
+     1>Done Building Project "C:\Users\Master\Dropbox (BIO MEDICAL ROBOTICS)\amit_games\raven - new dev\grasp_exp\grasp_exp.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.68

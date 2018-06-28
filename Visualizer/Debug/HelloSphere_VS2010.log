@@ -1,0 +1,17 @@
+﻿Build started 11/05/2015 15:08:43.
+     1>Project "C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\grasp_exp2\Visualizer\HelloSphere_VS2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\visualizer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HelloSphere_VS2010.vcxproj -> C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\grasp_exp2\Visualizer\.\Debug\visualizer.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\visualizer.unsuccessfulbuild".
+         Touching ".\Debug\visualizer.lastbuildstate".
+     1>Done Building Project "C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\grasp_exp2\Visualizer\HelloSphere_VS2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

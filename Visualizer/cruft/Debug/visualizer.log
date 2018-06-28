@@ -1,0 +1,18 @@
+﻿Build started 8/15/2012 12:35:29 AM.
+     1>Project "C:\Users\biorobotics\Desktop\Visualizer\visualizer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching ".\Debug\visualizer.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\biorobotics\Desktop\Visualizer\.\Debug\visualizer.exe) does not match the Linker's OutputFile property value (C:\Users\biorobotics\Desktop\Visualizer\Debug\HelloSphere.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(visualizer) does not match the Linker's OutputFile property value (HelloSphere). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/HelloSphere.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\OpenHaptics\Academic\3.1\lib\Win32\Debug /LIBPATH:C:\OpenHaptics\Academic\3.1\utilities\lib\Win32\Debug /LIBPATH:C:\OpenHaptics\Academic\3.1\lib\Win32\ hl.lib hlu.lib hd.lib hdu.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\visualizer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/HelloSphere.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\visualizer.lib" /MACHINE:X86 .\Debug/helper.obj
+         .\Debug/main.obj
+         .\Debug/sckt.obj
+     1>LINK : fatal error LNK1181: cannot open input file 'hl.lib'
+     1>Done Building Project "C:\Users\biorobotics\Desktop\Visualizer\visualizer.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.06

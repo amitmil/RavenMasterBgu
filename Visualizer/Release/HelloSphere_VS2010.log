@@ -1,0 +1,111 @@
+﻿Build started 12/02/2015 12:17:10.
+     1>Project "C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\ravennsigma\Visualizer\HelloSphere_VS2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release\visualizer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /IC:\OpenHaptics\Academic\3.1\include /IC:\OpenHaptics\Academic\3.1\utilities\include /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt helper.cpp main.cpp sckt\sckt.cpp
+         helper.cpp
+         main.cpp
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(103): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(164): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(180): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(195): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(204): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(217): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(219): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(310): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(331): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(340): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(352): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(355): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(406): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(416): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(429): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(450): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(453): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(458): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(461): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(484): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(510): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt/sckt.hpp(516): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>main.cpp(38): warning C4103: 'c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\main.cpp' : alignment changed after including header, may be due to missing #pragma pack(pop)
+     1>main.cpp(122): warning C4309: 'argument' : truncation of constant value
+     1>main.cpp(181): warning C4101: 'angle' : unreferenced local variable
+         sckt.cpp
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(103): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(164): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(180): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(195): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(204): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(217): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(219): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(310): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(331): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(340): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(352): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(355): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(406): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(416): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(429): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(450): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(453): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(458): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(461): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(484): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(510): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\raven\dropbox (bio medical robotics)\ravennsigma\visualizer\sckt\sckt.hpp(516): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(111): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(129): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(143): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(180): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(234): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(296): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(325): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(349): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(398): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(431): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(460): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(493): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(508): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(528): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(537): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>sckt\sckt.cpp(553): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+         Generating Code...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\ravennsigma\Visualizer\.\Release\visualizer.exe) does not match the Linker's OutputFile property value (C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\ravennsigma\Visualizer\Release\HelloSphere.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(visualizer) does not match the Linker's OutputFile property value (HelloSphere). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release/HelloSphere.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\OpenHaptics\Academic\3.1\lib\Win32\Release /LIBPATH:C:\OpenHaptics\Academic\3.1\utilities\lib\Win32\Release /LIBPATH:C:\OpenHaptics\Academic\3.1\lib\Win32\ hl.lib hlu.lib hd.lib hdu.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Release\visualizer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:".\Release/HelloSphere.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\visualizer.lib" /MACHINE:X86 .\Release/helper.obj
+         .\Release/main.obj
+         .\Release/sckt.obj
+     1>main.obj : error LNK2019: unresolved external symbol _WSAStartup@8 referenced in function "int __cdecl netInit(void)" (?netInit@@YAHXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__WSACancelBlockingCall@0 referenced in function "private: static void __cdecl sckt::Library::DeinitSockets(void)" (?DeinitSockets@Library@sckt@@CAXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__WSAGetLastError@0 referenced in function "private: static void __cdecl sckt::Library::DeinitSockets(void)" (?DeinitSockets@Library@sckt@@CAXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__WSACleanup@0 referenced in function "private: static void __cdecl sckt::Library::DeinitSockets(void)" (?DeinitSockets@Library@sckt@@CAXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__setsockopt@20 referenced in function "private: void __thiscall sckt::TCPSocket::DisableNaggle(void)" (?DisableNaggle@TCPSocket@sckt@@AAEXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__closesocket@4 referenced in function "public: void __thiscall sckt::Socket::Close(void)" (?Close@Socket@sckt@@QAEXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__shutdown@8 referenced in function "public: void __thiscall sckt::Socket::Close(void)" (?Close@Socket@sckt@@QAEXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__send@16 referenced in function "public: unsigned int __thiscall sckt::TCPSocket::Send(unsigned char const *,unsigned int)" (?Send@TCPSocket@sckt@@QAEIPBEI@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__recv@16 referenced in function "public: unsigned int __thiscall sckt::TCPSocket::Recv(unsigned char *,unsigned int)" (?Recv@TCPSocket@sckt@@QAEIPAEI@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__bind@12 referenced in function "public: void __thiscall sckt::UDPSocket::Open(unsigned short)" (?Open@UDPSocket@sckt@@QAEXG@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__htons@4 referenced in function "public: void __thiscall sckt::UDPSocket::Open(unsigned short)" (?Open@UDPSocket@sckt@@QAEXG@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__socket@12 referenced in function "public: void __thiscall sckt::UDPSocket::Open(unsigned short)" (?Open@UDPSocket@sckt@@QAEXG@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__sendto@24 referenced in function "public: unsigned int __thiscall sckt::UDPSocket::Send(unsigned char const *,unsigned short,class sckt::IPAddress)" (?Send@UDPSocket@sckt@@QAEIPBEGVIPAddress@2@@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__ntohs@4 referenced in function "public: unsigned int __thiscall sckt::UDPSocket::Recv(unsigned char *,unsigned short,class sckt::IPAddress &)" (?Recv@UDPSocket@sckt@@QAEIPAEGAAVIPAddress@2@@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__ntohl@4 referenced in function "public: unsigned int __thiscall sckt::UDPSocket::Recv(unsigned char *,unsigned short,class sckt::IPAddress &)" (?Recv@UDPSocket@sckt@@QAEIPAEGAAVIPAddress@2@@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__recvfrom@24 referenced in function "public: unsigned int __thiscall sckt::UDPSocket::Recv(unsigned char *,unsigned short,class sckt::IPAddress &)" (?Recv@UDPSocket@sckt@@QAEIPAEGAAVIPAddress@2@@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol ___WSAFDIsSet@8 referenced in function "public: bool __thiscall sckt::SocketSet::CheckSockets(unsigned int)" (?CheckSockets@SocketSet@sckt@@QAE_NI@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__select@20 referenced in function "public: bool __thiscall sckt::SocketSet::CheckSockets(unsigned int)" (?CheckSockets@SocketSet@sckt@@QAE_NI@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__WSAStartup@8 referenced in function "private: static void __cdecl sckt::Library::InitSockets(void)" (?InitSockets@Library@sckt@@CAXXZ)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__gethostbyname@4 referenced in function "public: class sckt::IPAddress __thiscall sckt::Library::GetHostByName(char const *,unsigned short)" (?GetHostByName@Library@sckt@@QAE?AVIPAddress@2@PBDG@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__inet_addr@4 referenced in function "public: class sckt::IPAddress __thiscall sckt::Library::GetHostByName(char const *,unsigned short)" (?GetHostByName@Library@sckt@@QAE?AVIPAddress@2@PBDG@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__ioctlsocket@12 referenced in function "public: void __thiscall sckt::TCPServerSocket::Open(unsigned short,bool)" (?Open@TCPServerSocket@sckt@@QAEXG_N@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__listen@8 referenced in function "public: void __thiscall sckt::TCPServerSocket::Open(unsigned short,bool)" (?Open@TCPServerSocket@sckt@@QAEXG_N@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__connect@12 referenced in function "public: void __thiscall sckt::TCPSocket::Open(class sckt::IPAddress const &,bool)" (?Open@TCPSocket@sckt@@QAEXABVIPAddress@2@_N@Z)
+     1>sckt.obj : error LNK2019: unresolved external symbol __imp__accept@12 referenced in function "public: class sckt::TCPSocket __thiscall sckt::TCPServerSocket::Accept(void)" (?Accept@TCPServerSocket@sckt@@QAE?AVTCPSocket@2@XZ)
+     1>.\Release/HelloSphere.exe : fatal error LNK1120: 25 unresolved externals
+     1>Done Building Project "C:\Users\raven\Dropbox (BIO MEDICAL ROBOTICS)\ravennsigma\Visualizer\HelloSphere_VS2010.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.38
